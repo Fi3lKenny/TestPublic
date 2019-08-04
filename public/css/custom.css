@@ -31,3 +31,18 @@ td a:hover {
 .car-detail-wrapper {
     font-size: 20pt;
 }
+
+.display-comment {
+    border: 1px solid #d4d4d4;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 5px;
+}
+
+.vote-btn {
+font-size: 11px;
+}
+
+.vote-count {
+    font-size: 10px;
+}

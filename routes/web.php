@@ -16,3 +16,5 @@ Route::get('/list-data', 'ListController@index');
 Route::get('/detail-data/{id}', 'ListController@showDetail');
 
 Route::post('/submit_form', 'FormController@formSubmit');
+Route::post('/submit_comment', 'FormController@commentSubmit');
+Route::post('/submit_vote', 'FormController@voteSubmit');
