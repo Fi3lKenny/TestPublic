@@ -50,7 +50,3 @@
         </div>
     </div>
 @endsection
-
-@section('script-content')
-    <script type="text/javascript">const pageName = 'detailData';</script>
-@endsection

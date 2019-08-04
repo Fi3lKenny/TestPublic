@@ -8,9 +8,6 @@ $(document).ready(function () {
         case 'listData':
             $("#list-index").addClass("active");
             break;
-        case 'detailData':
-            $("#detail-index").addClass("active");
-            break;
     }
 
     $('#dataTable').DataTable();

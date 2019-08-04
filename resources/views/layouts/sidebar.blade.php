@@ -15,13 +15,13 @@
     <li id="side-index" class="nav-item">
         <a class="nav-link" href="/">
             <i class="fas fa-fw fa-tachometer-alt"></i>
-            <span>Dashboard</span></a>
+            <span>Submission Page</span></a>
     </li>
 
     <li id="list-index" class="nav-item">
         <a class="nav-link" href="/list-data">
             <i class="fas fa-fw fa-table"></i>
-            <span>List Item</span></a>
+            <span>Car List</span></a>
     </li>
 
     <!-- Divider -->
