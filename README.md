@@ -5,7 +5,7 @@ Instruction:
 1. Clone or Download from Git
 2. Open comment prompt
 3. Change directory to downloaded file (cd C://folderpath) 
-4. Run 'Composer install' comment
+4. Run 'composer install' command
 5. Don't forget to create the .env file
 6. Generate key => php artisan key:generate
 7. Add database connection inside .env
